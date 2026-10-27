@@ -5,7 +5,12 @@
  "yomi": "しんせんろうえいしゅう",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "詩歌集（朗詠集）",
+  "era": "平安時代後期（12世紀前半）",
+  "author": "藤原基俊 撰",
+  "desc": "和漢朗詠集にならって、漢詩句と和歌を題ごとに集めた朗詠集。"
+ },
  "editions": [
   {
    "pid": "1913603",
