@@ -22,7 +22,7 @@ shinsen-roeishu-000671	671		同	東船西船悄無言。唯見江心秋月白。
 shinsen-roeishu-000672	672		以言	家夾江河南北岸。心通上下往來船。	
 shinsen-roeishu-000673	673		同	桂花秋白雲閑地。蘆葉春青水冷天。	
 shinsen-roeishu-000674	674		小町	こゝろからうきたる船にのりそめてひとひも波にぬれぬ日ぞなき	
-shinsen-roeishu-000675	675		元稹	白髮鏡中歎易老。青山江上幾回春。	
+shinsen-roeishu-000675	675		元稹	白髮鏡中慙易老。青山江上幾回春。	
 shinsen-roeishu-000676	676		白	百川未有回流水。一老終無却少人。	
 shinsen-roeishu-000677	677		同	梨園弟子白髮新。椒房阿監青蛾老。	
 shinsen-roeishu-000678	678		同	辭枝雪蘂將春去。滿鑷霜毛送老來。	
